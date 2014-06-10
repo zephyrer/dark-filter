@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnf><base><regex>.*</regex><url>http://cl.s1.lv/thread0806.php?fid=15&amp;search=&amp;page=</url><timeout>1</timeout><max_page>100</max_page><max_count>5000</max_count></base><proxy><proxy>false</proxy><address>127.0.0.1</address><port>8087</port><name/><password/></proxy></cnf>
